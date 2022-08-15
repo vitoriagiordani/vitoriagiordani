@@ -1,0 +1,4 @@
+- 👋Meu nome é.Vitoria Giordani
+- Estudo no Colégio Estadual Gulherme de Almeida
+- Professora:Fran Carla Soares
+- Pensamento Computacional
